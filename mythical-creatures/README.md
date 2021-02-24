@@ -26,7 +26,7 @@ Run the command `npm test mythical-creatures/test/unicorn-test.js`. To run other
 - [x] `werewolf`
 - [x] `centaur`
 - [ ] `direwolf`
-- [ ] `fairy`
+- [x] `fairy`
 - [ ] `ogre`
 - [ ] `sphinx`
 
